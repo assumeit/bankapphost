@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assumeit/bankapphost.git/static/css/main.d194dab6.css",
+    "main.js": "/assumeit/bankapphost.git/static/js/main.dff78312.js",
+    "static/js/453.64512fd7.chunk.js": "/assumeit/bankapphost.git/static/js/453.64512fd7.chunk.js",
+    "index.html": "/assumeit/bankapphost.git/index.html",
+    "main.d194dab6.css.map": "/assumeit/bankapphost.git/static/css/main.d194dab6.css.map",
+    "main.dff78312.js.map": "/assumeit/bankapphost.git/static/js/main.dff78312.js.map",
+    "453.64512fd7.chunk.js.map": "/assumeit/bankapphost.git/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d194dab6.css",
+    "static/js/main.dff78312.js"
+  ]
+}
